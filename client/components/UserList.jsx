@@ -14,6 +14,5 @@ export default ({ users }) => (
         ))}
       </tbody>
     </table>
-    <h1>Erick</h1>
   </div>
 );
